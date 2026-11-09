@@ -292,8 +292,8 @@ Future iterations could introduce weekly study goal reminders via the Web Notifi
 ---
 
 ### **Project Links**
-- **GitHub Repository**: [https://github.com/YOUR-USERNAME/student-task-manager](https://github.com)
-- **Live Deployment**: [https://YOUR-USERNAME.github.io/student-task-manager/](https://pages.github.com)
+- **GitHub Repository**: [https://github.com/ARAVINDKUMARGS/STUDENT-TASK-MANAGER](https://github.com/ARAVINDKUMARGS/STUDENT-TASK-MANAGER)
+- **Live Deployment**: [https://aravindkumargs.github.io/STUDENT-TASK-MANAGER/](https://aravindkumargs.github.io/STUDENT-TASK-MANAGER/)
 
 ---
 
