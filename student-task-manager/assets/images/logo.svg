@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" fill="none">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+    <linearGradient id="capGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Icon Mark -->
+  <rect x="8" y="8" width="44" height="44" rx="12" fill="url(#logoGrad)" />
+  <!-- Academic Cap & Check -->
+  <path d="M30 18L17 25L30 32L43 25L30 18Z" fill="#ffffff" />
+  <path d="M21 28.5V36C21 38.5 25 41 30 41C35 41 39 38.5 39 36V28.5" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M43 25.5V34" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="43" cy="35" r="1.5" fill="#ffffff"/>
+
+  <!-- Logo Typography -->
+  <text x="64" y="34" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="800" fill="currentColor" letter-spacing="-0.5">Study<tspan fill="#4f46e5">Flow</tspan></text>
+  <text x="64" y="47" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" fill="#64748b" letter-spacing="1.2">STUDENT PRODUCTIVITY OS</text>
+</svg>
+

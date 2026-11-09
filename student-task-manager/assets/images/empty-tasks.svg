@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" fill="none">
+  <defs>
+    <linearGradient id="cloudGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="clipGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Ambient Backdrop -->
+  <circle cx="160" cy="120" r="95" fill="url(#cloudGrad)" />
+  <circle cx="240" cy="70" r="16" fill="#6366f1" fill-opacity="0.15" />
+  <circle cx="85" cy="165" r="12" fill="#06b6d4" fill-opacity="0.2" />
+
+  <!-- Clipboard Shadow -->
+  <rect x="105" y="55" width="110" height="145" rx="16" fill="#000000" fill-opacity="0.08" />
+
+  <!-- Clipboard Board -->
+  <rect x="100" y="50" width="115" height="145" rx="14" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" />
+  
+  <!-- Clipboard Metal Clamp -->
+  <rect x="130" y="38" width="55" height="22" rx="6" fill="url(#clipGrad)" />
+  <circle cx="157.5" cy="46" r="4" fill="#ffffff" />
+
+  <!-- Checklist lines (Clean & Checked) -->
+  <circle cx="125" cy="85" r="9" fill="#10b981" />
+  <path d="M121 85L124 88L129 82" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="142" y="82" width="55" height="6" rx="3" fill="#cbd5e1" />
+
+  <circle cx="125" cy="115" r="9" fill="#10b981" />
+  <path d="M121 115L124 118L129 112" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="142" y="112" width="48" height="6" rx="3" fill="#cbd5e1" />
+
+  <circle cx="125" cy="145" r="9" fill="#10b981" />
+  <path d="M121 145L124 148L129 142" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="142" y="142" width="60" height="6" rx="3" fill="#cbd5e1" />
+
+  <!-- Celebration sparkles -->
+  <path d="M72 80L76 84M76 80L72 84" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M238 135L244 141M244 135L238 141" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M225 90L228 98L236 101L228 104L225 112L222 104L214 101L222 98Z" fill="#fbbf24" />
+</svg>
+
